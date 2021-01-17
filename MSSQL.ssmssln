@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.DataBaseIntro", "01.DataBaseIntro", "{641CA0A0-1476-4434-BC25-73CCAACEE5E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.SecondLecture", "02.SecondLecture", "{05343C30-E063-41B9-B0A8-716902DE8B45}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DB Intro Project", "DB Intro Project\DB Intro Project.ssmssqlproj", "{BC69ACFE-04FC-4533-849A-F8D37830FACF}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CRUD", "CRUD\CRUD.ssmssqlproj", "{FBD6DE71-7B7A-41E6-832E-06B600D9CC25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC69ACFE-04FC-4533-849A-F8D37830FACF}.Default|Default.ActiveCfg = Default
+		{6849D4FB-E4AA-4F4D-B564-39C89DDCB646}.Default|Default.ActiveCfg = Default
+		{FBD6DE71-7B7A-41E6-832E-06B600D9CC25}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BC69ACFE-04FC-4533-849A-F8D37830FACF} = {641CA0A0-1476-4434-BC25-73CCAACEE5E9}
+		{FBD6DE71-7B7A-41E6-832E-06B600D9CC25} = {05343C30-E063-41B9-B0A8-716902DE8B45}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7BB1D2A-D28C-4C36-A6CB-CF62C4768986}
+	EndGlobalSection
+EndGlobal
