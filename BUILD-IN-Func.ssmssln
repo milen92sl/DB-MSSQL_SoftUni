@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "BUILD-IN-Func", "BUILD-IN-Func.ssmssqlproj", "{BC405496-F24A-45C8-9057-A21C118FC480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC405496-F24A-45C8-9057-A21C118FC480}.Default|Default.ActiveCfg = Default
+		{3FAA1136-C0A8-4B74-947A-59EFAE560E2A}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4A2849B-83A4-4636-A90C-C7E6BFFD6A31}
+	EndGlobalSection
+EndGlobal
